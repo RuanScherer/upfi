@@ -4,7 +4,7 @@ This is an app that allows you to upload photos and see them in a infinite scrol
 
 In this project, I've applied form validation, query cache and mutations and declarative UI.
 
-<video src="docs/demo-upfi.mp4" autoplay muted controls></video>
+https://user-images.githubusercontent.com/50061559/205457979-930c37bb-9dc5-4ac3-be3f-866d1587613d.mp4
 
 # Tech Stack
 
